@@ -18,7 +18,7 @@ This project is a Java implementation of turtle graphics using the Swing/AWT fra
 - **Custom Commands:** RGB color control, pen width adjustment, custom "about" animation with student name.
 
 ## Project Structure
-TurtleGraphics-OOP-BCS/
+```TurtleGraphics-OOP-BCS/
 ├── src/
 │   ├── TurtleGraphics/
 │   │   ├── Main.java             # Entry point
@@ -27,6 +27,7 @@ TurtleGraphics-OOP-BCS/
 ├── lib/
 │   └── LBUGraphics.jar           # Provided library
 └── Assignment.md                 # Submission details
+```
 
 ## YouTube Demonstration
 //Link  
