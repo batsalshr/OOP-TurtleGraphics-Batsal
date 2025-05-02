@@ -17,6 +17,17 @@ This project is a Java implementation of turtle graphics using the Swing/AWT fra
 - **Input Validation:** Error handling for invalid commands and parameters.
 - **Custom Commands:** RGB color control, pen width adjustment, custom "about" animation with student name.
 
+## Project Structure
+TurtleGraphics-OOP-BCS/
+├── src/
+│   ├── TurtleGraphics/
+│   │   ├── Main.java             # Entry point
+│   │   ├── TurtleGraphics.java   # Core logic
+│   │   └── ...                   # Other classes
+├── lib/
+│   └── LBUGraphics.jar           # Provided library
+└── Assignment.md                 # Submission details
+
 ## YouTube Demonstration
 //Link  
 *(Click the image above to view the demonstration)*
