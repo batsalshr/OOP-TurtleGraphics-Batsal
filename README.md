@@ -25,8 +25,8 @@ This project is a Java implementation of turtle graphics using the Swing/AWT fra
 │   │   ├── TurtleGraphics.java   # Core logic
 │   │   └── ...                   # Other classes
 ├── lib/
-│   └── LBUGraphics.jar           # Provided library
-└── Assignment.md                 # Submission details
+    └── LBUGraphics.jar           # Provided library
+
 ```
 
 ## YouTube Demonstration
