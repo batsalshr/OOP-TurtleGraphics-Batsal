@@ -18,7 +18,7 @@ This project is a Java implementation of turtle graphics using the Swing/AWT fra
 - **Custom Commands:** RGB color control, pen width adjustment, custom "about" animation with student name.
 
 ## YouTube Demonstration
-[![Demo Video](https://img.youtube.com/vi/YOUR_VIDEO_ID/0.jpg)](https://youtu.be/YOUR_VIDEO_ID)  
+//Link  
 *(Click the image above to view the demonstration)*
 
 ## How to Run
