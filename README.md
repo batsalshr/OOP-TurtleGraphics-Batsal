@@ -5,7 +5,7 @@
 **Institution:** The British College  
 **Course:** Object Oriented Programming (OOP)  
 **GitHub Username:** batsalshr  
-**Group : **CSC Duncan
+**Group:** CSC Duncan 
 
 
 ## Project Description
