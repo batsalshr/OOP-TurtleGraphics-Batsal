@@ -5,6 +5,8 @@
 **Institution:** The British College  
 **Course:** Object Oriented Programming (OOP)  
 **GitHub Username:** batsalshr  
+**Group : ** CSC Duncan
+
 
 ## Project Description
 This project is a Java implementation of turtle graphics using the Swing/AWT framework, extending the provided LBUGraphics framework. The program supports basic turtle movements, shape drawing, command history, file operations, and input validation.
